@@ -1,5 +1,5 @@
 # Circularpb
-An animated circular progress bar.
+An animated circular progress bar, in response of my friend's [PGCircularProgressBar](https://github.com/pablogsIO/PGCircularProgressBar).
 
 Demo [here](http://luismedel.com/labs/circularpb/)
 
